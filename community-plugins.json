@@ -18989,5 +18989,12 @@
     "author": "Diego Eis",
     "description": "Automate frontmatter updates using conditional rules (IF/THEN).",
     "repo": "diegoeis/obsidian-conditional-properties"
+  },
+  {
+    "id": "better-bullets",
+    "name": "Better Bullets",
+    "author": "Lucas Lum",
+    "description": "Replaces bullets with easier to read en dashes & other symbols.",
+    "repo": "lualum/ObsidianBetterBullets"
   }
 ]
